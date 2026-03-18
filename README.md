@@ -1,5 +1,11 @@
 # A-9-DOF-IMU-Calibration-Method-without-External-Equipment
 
+## Static Detector
+
+\begin{equation}
+    \delta(k)=\sqrt{[var_k^{t_w}(a_x)]^2+[var_k^{t_w}( a_y)]^2+[var_k^{t_w}( a_z)]^2}
+\end{equation}
+
 ## The Accelerometer Component
 $$\begin{equation}
 a^{\mathcal O}=T_aK_a(a^{\mathcal A}+b_a)+v_a	
