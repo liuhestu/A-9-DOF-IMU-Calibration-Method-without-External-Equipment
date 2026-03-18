@@ -2,9 +2,9 @@
 
 ## Static Detector
 
-\begin{equation}
+$$\begin{equation}
     \delta(k)=\sqrt{[var_k^{t_w}(a_x)]^2+[var_k^{t_w}( a_y)]^2+[var_k^{t_w}( a_z)]^2}
-\end{equation}
+\end{equation}$$
 
 ## The Accelerometer Component
 $$\begin{equation}
